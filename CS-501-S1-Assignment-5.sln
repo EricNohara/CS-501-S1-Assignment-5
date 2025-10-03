@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI-Hangman-Game", "GUI-Han
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal-Library-Manager-Program", "Personal-Library-Manager-Program\Personal-Library-Manager-Program.csproj", "{E89BFCA5-77A3-4476-9EFD-51C27C49E201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textbook-Problem-13-1", "Textbook-Problem-13-1\Textbook-Problem-13-1.csproj", "{023191DF-9413-4757-A610-D29278568443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E89BFCA5-77A3-4476-9EFD-51C27C49E201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E89BFCA5-77A3-4476-9EFD-51C27C49E201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E89BFCA5-77A3-4476-9EFD-51C27C49E201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023191DF-9413-4757-A610-D29278568443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023191DF-9413-4757-A610-D29278568443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023191DF-9413-4757-A610-D29278568443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023191DF-9413-4757-A610-D29278568443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
