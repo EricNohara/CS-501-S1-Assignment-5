@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace Textbook_Problem_13_4 {
+namespace Textbook_Problem_13_4_2 {
     
     
     /// <summary>
@@ -671,7 +671,7 @@ namespace Textbook_Problem_13_4 {
         }
     }
 }
-namespace Textbook_Problem_13_4.PersonnelDataSetTableAdapters {
+namespace Textbook_Problem_13_4_2.PersonnelDataSetTableAdapters {
     
     
     /// <summary>
@@ -834,7 +834,7 @@ SELECT Id, Name, Position, HourlyPayRate FROM Employee WHERE (Id = @Id)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::Textbook_Problem_13_4.Properties.Settings.Default.PersonnelConnectionString;
+            this._connection.ConnectionString = global::Textbook_Problem_13_4_2.Properties.Settings.Default.PersonnelConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

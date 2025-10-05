@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Textbook_Problem_13_4
+namespace Textbook_Problem_13_4_2
 {
     public partial class Form1 : Form
     {
@@ -58,7 +58,6 @@ namespace Textbook_Problem_13_4
                 adapter.Fill(dt);
                 employeeDataGridView.DataSource = dt; // directly bind rows to grid
             }
-
         }
     }
 }

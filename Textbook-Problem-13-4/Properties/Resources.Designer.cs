@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Textbook_Problem_13_4.Properties
+namespace Textbook_Problem_13_4_2.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Textbook_Problem_13_4.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Textbook_Problem_13_4.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Textbook_Problem_13_4_2.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
