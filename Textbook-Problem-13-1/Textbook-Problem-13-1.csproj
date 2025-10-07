@@ -112,10 +112,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Personnel.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Personnel_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>Personnel.mdf</DependentUpon>
     </Content>
   </ItemGroup>

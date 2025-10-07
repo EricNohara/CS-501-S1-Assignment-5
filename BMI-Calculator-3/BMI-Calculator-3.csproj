@@ -125,10 +125,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BMIDatabase.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="BMIDatabase_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>BMIDatabase.mdf</DependentUpon>
     </Content>
   </ItemGroup>
